@@ -137,6 +137,8 @@ mvn package
 java -jar target/gs-maven-0.1.0.jar
 ```
 
+
 **EXECUTABLE**
+
 <img width="671" alt="Screenshot 2024-06-04 at 8 12 15 PM" src="https://github.com/Ramnarendranr/PROJECTS/assets/122247354/5b9cf169-05c6-4fd6-8e70-fb41d031904d">
 
